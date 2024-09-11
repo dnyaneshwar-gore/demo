@@ -1,4 +1,5 @@
 # demo
 This is my first Git Repository
 <br/>
-Author - Dnyaneshwar Gore 
+Name - Dnyaneshwar Gore
+Designation : Software Engineer 
